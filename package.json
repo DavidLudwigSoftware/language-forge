@@ -1,0 +1,32 @@
+{
+  "name": "language-forge",
+  "version": "0.10.0",
+  "description": "A syntax highlight for the Forge templating engine",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidLudwigSoftware/language-forge"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# Forge Templating Engine\n\nA syntax highlighter for the Forge templating engine",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/DavidLudwigSoftware/language-forge/issues"
+  },
+  "homepage": "https://github.com/DavidLudwigSoftware/language-forge#readme",
+  "_id": "language-forge@0.10.0",
+  "_shasum": "17066c27c151a435fdc79c8f986746b0a328425c",
+  "_resolved": "file:..\\d-116028-21528-1arwl1k\\package.tgz",
+  "_from": "..\\d-116028-21528-1arwl1k\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

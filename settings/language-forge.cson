@@ -1,0 +1,14 @@
+'.text.html.php.forge':
+  'editor':
+    'commentStart': '#'
+    'commentEnd': '\n'
+    'increaseIndentPattern': ''
+    'decreaseIndentPattern': '(?x)
+      ^\\s*
+      (</(?!html)
+        [-_\\.A-Za-z0-9]+\\b[^>]*>
+        |-->
+        |<\\?(php)?\\s+|end
+        |\\}
+        |@end[^\\s]\\b
+      )'
